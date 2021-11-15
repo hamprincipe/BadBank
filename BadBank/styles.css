@@ -1,0 +1,7 @@
+.navbar:hover{
+    cursor: pointer;
+}
+
+body{
+    background: rgb(250, 229, 133);
+}
